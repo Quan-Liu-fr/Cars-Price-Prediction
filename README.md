@@ -22,12 +22,12 @@ Notes:
 * Using a virtual environment is recommanded
 
 *~~$ python3 -m pip install --user virtualenv **or** sudo apt install python3-virtualenv # install virtualenv
-*~$ virtualenv [virtual environment name] => create your own virtual environment
-*~$ source [virtual environment name]/bin/activate => activate virtulenv
+*~~$ virtualenv [virtual environment name] => create your own virtual environment
+*~~$ source [virtual environment name]/bin/activate => activate virtulenv
 **and you can install the packages depends on the project by **
-*~$ pip install [package name and its version if needed]
-*~$ pip freeze => to check installed packages
+*~~$ pip install [package name and its version if needed]
+*~~$ pip freeze => to check installed packages
 **to export the packages**
-*~$ touche requirements.txt
-*~$ pip freeze > requirements.txt
-*~$ desactivate => once finishing, don't forget to desactive the virtual env
+*~~$ touche requirements.txt
+*~~$ pip freeze > requirements.txt
+*~~$ desactivate => once finishing, don't forget to desactive the virtual env

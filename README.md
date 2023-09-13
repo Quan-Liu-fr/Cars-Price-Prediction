@@ -27,7 +27,7 @@ _$_ virtualenv _your_virtual_environment_ => create your own virtual environment
 
 _$_ source _your_virtual_environment_/bin/activate => activate virtulenv
 
-**and you can install the packages depends on the project by **
+**and you can install the packages depends on the project by**
 
 _$_ pip install _package name and its version if needed_
 

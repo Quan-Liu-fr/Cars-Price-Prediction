@@ -17,3 +17,6 @@
 * Construire et entraîner des modèles de régression linéaire multiple, de régression à forêts aléatoires et de XGBoost pour prédire le prix des voitures d'occasion.
 * Calculer les métriques de régression à partir des modèles entraînés et comparer leurs scores de précision."
 
+Notes: 
+* Libraries are listed in requirements.txt 
+* Using a virtual environment is recommanded

@@ -21,9 +21,9 @@ Notes:
 * Libraries are listed in requirements.txt 
 * Using a virtual environment is recommanded
 
-*~~$ python3 -m pip install --user virtualenv **or** sudo apt install python3-virtualenv # install virtualenv
+*$ python3 -m pip install --user virtualenv **or** sudo apt install python3-virtualenv # install virtualenv
 
-*~~$ virtualenv [virtual environment name] => create your own virtual environment
+*$ virtualenv _virtual_environment_name_ => create your own virtual environment
 
 *~~$ source [virtual environment name]/bin/activate => activate virtulenv
 

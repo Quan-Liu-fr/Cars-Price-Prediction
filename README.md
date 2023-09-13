@@ -39,4 +39,4 @@ _$_ touche requirements.txt
 
 _$_ pip freeze > requirements.txt
 
-_$_ desactivate => once finishing, don't forget to desactive the virtual env
+_$_ deactivate => once finishing, don't forget to deactive the virtual env
